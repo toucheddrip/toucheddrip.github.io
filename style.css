@@ -54,7 +54,7 @@
     width: 400px;
     height: 100%;
     position: fixed;
-    background-color: #f5f5f5;
+    background-color: rgb(0, 102, 255);
     box-shadow: 6px 6px 5px #CCD1D1;
 }
 
