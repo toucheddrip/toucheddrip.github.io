@@ -106,6 +106,8 @@ p{
     font-size: medium;
     font-family: Karla, serif;
     font-style: italic;
+    text-align: center;
+    width: auto;
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
